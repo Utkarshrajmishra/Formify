@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "ProductSaaSBold";
+  src: url("./assets/Product\ Sans\ Bold.ttf") format(truetype);
+}
+
+@font-face {
+  font-family: "ProductSaaSRegular";
+  src: url("./assets/Product\ Sans\ Regular.ttf")  format(truetype);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
